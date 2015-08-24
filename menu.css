@@ -1,0 +1,25 @@
+.menu {text-shadow:none;position: fixed;height: 100%;width: 197px;background: 
+
+#00022d;font-family: 'Offside', sans-serif;z-index: 99;left:0;top:50px}
+.menu: {width: 220px;background-color: #4b84ff;}
+.menuItem span {position: absolute;left:80px;top:20px;transition:color 1s;color:#4b84ff;}
+.menu: .menuItem  span {background-color: #4b84ff;}
+.menuItem {color:#fff;position: relative;padding: 20px;transition:border .5s, background 
+
+.2s;}
+.menuItem a {color:#fff;}
+.menuItem:hover {background: transparant;}
+.satu {border-left:5px solid #fe021c;}
+.satu:hover{border-left:20px solid #fe021c; background:#fe021c;}
+.dua {border-left:5px solid #029afe;}
+.dua:hover {border-left:20px solid #029afe;background:#029afe;}
+.tiga {border-left:5px solid #8e44ad;}
+.tiga:hover {border-left:20px solid #8e44ad;background:#8e44ad;}
+.empat {border-left:5px solid #fe6602;}
+.empat:hover {border-left:20px solid #fe6602;background:#fe6602;}
+.lima {border-left:5px solid #ffff00;}
+.lima:hover {border-left:20px solid #ffff00;background:#ffff00;}
+.enam {border-left:5px solid #fe029a;}
+.enam:hover {border-left:20px solid #fe029a;background:#fe029a;}
+.tujuh {border-left:5px solid #1cfe02;}
+.tujuh:hover {border-left:20px solid #1cfe02;background:#1cfehttps://drive.google.com/file/d/0B6XGZql07wRAR3RsNjhZZkJld1U/view?usp=sharing02;}
